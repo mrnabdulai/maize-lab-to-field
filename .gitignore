@@ -1,0 +1,7 @@
+data/
+.venv/
+__pycache__/
+translate.log
+preview_all.png
+translate_v2.log
+evaluate.log
